@@ -1,20 +1,32 @@
-Perfect! 😎 I’ve rewritten your **full LBW Prediction README** in **“Top Programmer / ICPC Champion” style**, with the **direct logo row at the top**, clean formatting, and futuristic GitHub vibes. You can just paste this into your repo:
+Perfect! 😎 I’ve made a **futuristic “Top ICPC Champion / Meta-style” README header** for your LBW repo. It includes **gradient-style spacing, hover tooltips for logos**, and looks **ultra-professional on GitHub**.
+
+Here’s the **ready-to-paste full README**:
 
 ---
 
 # 🌟 Low Birth Weight (LBW) Prediction – Bangladesh & Nepal
 
-<!-- Top Programmer Style Logo Row -->
+<!-- Top ICPC / Meta-Style Logo Row -->
 
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/r.svg" alt="R" width="35" title="R"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="35" title="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scikitlearn.svg" alt="Scikit-learn" width="35" title="Machine Learning"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/postgresql.svg" alt="PostgreSQL" width="35" title="Data"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tableau.svg" alt="Tableau" width="35" title="Visualization"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/shiny.svg" alt="Shiny" width="35" title="Explainable AI"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/r.svg" width="40" title="R - Programming"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="40" title="GitHub - Version Control"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scikitlearn.svg" width="40" title="Machine Learning - Scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/postgresql.svg" width="40" title="Data Handling - PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tableau.svg" width="40" title="Visualization - Tableau"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/shiny.svg" width="40" title="Explainable AI - Shiny / SHAP"/>
+</p>
 
 ---
-
+<!-- Top ICPC / Meta-Style Animated Logo Row -->
+<p align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/r.svg" alt="R" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';" title="R - Programming"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';" title="GitHub - Version Control"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scikitlearn.svg" alt="Scikit-learn" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';" title="Machine Learning - Scikit-learn"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/postgresql.svg" alt="PostgreSQL" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';" title="Data Handling - PostgreSQL"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tableau.svg" alt="Tableau" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';" title="Visualization - Tableau"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/shiny.svg" alt="Shiny" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';" title="Explainable AI - Shiny / SHAP"/></a>
+</p>
 ## 🧑‍🔬 Authors & Affiliations
 
 * **Mohammad Ohid Ullah**
@@ -77,12 +89,14 @@ LBW-Prediction/
 
 ## 🛠 Tech Stack
 
-* **R (>=4.2)** <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/r.svg" width="25"/>
-* **Machine Learning (Scikit-learn)** <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scikitlearn.svg" width="25"/>
-* **Data Handling (PostgreSQL)** <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/postgresql.svg" width="25"/>
-* **Visualization (Tableau)** <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tableau.svg" width="25"/>
-* **Explainable AI / SHAP (Shiny)** <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/shiny.svg" width="25"/>
-* **Version Control & License (GitHub)** <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="25"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/r.svg" width="30" title="R - Programming"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scikitlearn.svg" width="30" title="Machine Learning"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/postgresql.svg" width="30" title="Data Handling"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tableau.svg" width="30" title="Visualization"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/shiny.svg" width="30" title="Explainable AI / SHAP"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="30" title="Version Control / License"/>
+</p>
 
 ---
 
@@ -133,6 +147,3 @@ MIT License — Open for **research & academic use**
 
 ---
 
-
-
-Do you want me to do that next?
