@@ -80,7 +80,7 @@
 │   📧 ohid-sta@sust.edu             📧 saleksta@gmail.com                │
 │   🏛️  SUST · Statistics Dept.      🏛️  SUST · Statistics Dept.          │
 │                                    🔗 LinkedIn ↗                        │
-│                                    🆔 ORCID: 0009-0005-5973-461X        │
+│   🆔 0000-0003-2336-3018           🆔 ORCID: 0009-0005-5973-461X        │
 │                                                                         │
 │          Shahjalal University of Science and Technology                 │
 │                      Bangladesh 🇧🇩                                     │
@@ -90,6 +90,7 @@
 [![LinkedIn](https://img.shields.io/badge/Md_Salek_Miah-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-salek-miah-b34309329/)
 [![Email Ohid](https://img.shields.io/badge/ohid--sta%40sust.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ohid-sta@sust.edu)
 [![Email Salek](https://img.shields.io/badge/saleksta%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saleksta@gmail.com)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--5973--461X-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2336-3018)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--5973--461X-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-5973-461X)
 
 </div>
