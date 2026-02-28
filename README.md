@@ -6,8 +6,8 @@
 <!-- CHAMPION BADGE -->
 <br/>
 
-[![🏆 ICPC-Grade Research](https://img.shields.io/badge/🏆-ICPC--Grade%20ML%20Research-f59e0b?style=for-the-badge&labelColor=0d1117)](https://github.com)
-[![Q1 Journal](https://img.shields.io/badge/📄-Q1%20Journal%20Ready-00d4ff?style=for-the-badge&labelColor=0d1117)](https://github.com)
+[![🏆  Research](https://img.shields.io/badge/🏆-ICPC--Grade%20ML%20Research-f59e0b?style=for-the-badge&labelColor=0d1117)](https://github.com)
+[![Journal](https://img.shields.io/badge/📄-Q1%20Journal%20Ready-00d4ff?style=for-the-badge&labelColor=0d1117)](https://github.com)
 [![MIT License](https://img.shields.io/badge/License-MIT-10b981?style=for-the-badge&labelColor=0d1117)](LICENSE)
 
 <br/>
