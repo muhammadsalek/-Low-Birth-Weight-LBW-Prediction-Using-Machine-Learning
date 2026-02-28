@@ -191,10 +191,10 @@
 │   └── 🗄️  nepal_data.dta       ◄── Nepal DHS dataset
 │
 ├── 📂 figures/
-│   ├── 🖼️  ROC_Curves.png        ◄── Multi-model ROC comparison
-│   ├── 🖼️  PR_Curves.png         ◄── Precision-Recall curves
-│   ├── 🖼️  DT_Feature_Importance.png
-│   └── 🖼️  LR_Feature_Importance.png
+│   ├── 🖼️  ROC_Curves        ◄── Multi-model ROC comparison
+│   ├── 🖼️  PR_Curves       ◄── Precision-Recall curves
+│   ├── 🖼️  DT_Feature_Importance
+│   └── 🖼️  LR_Feature_Importance
 │
 ├── 📂 tables/
 │   └── 📊 Model_Performance.csv  ◄── All metrics · all models · both countries
